@@ -48,7 +48,7 @@ include_once("template/header.php");
           <h2 id="text_lado">Texto ao lado do carrossel</h2>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corrupti atque quaerat, voluptates, accusantium laborum
+            Lorem ipsum dolor sit amet , adipisicing elit. Corrupti atque quaerat, voluptates, accusantium laborum
             dolorum culpa tenetur explicabo unde inventore nulla reprehenderit aliquam adipisci esse sapiente? Sunt reiciendis mollitia quos..
           </p>
 
