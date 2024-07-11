@@ -11,8 +11,7 @@ include_once("template/header.php");
 
       <h2 id="bem_vindo">BEM VINDO A ARQUEOGÊNESE</h2>
 
-      <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corrupti atque quaerat, voluptates, accusantium laborum dolorum
-        culpa tenetur explicabo unde inventore nulla reprehenderit aliquam adipisci esse sapiente? Sunt reiciendis mollitia quos.</p>
+      
 
       <p> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Amet quam, expedita similique quae reprehenderit cum neque
         distinctio qui architecto numquam. Quis autem distinctio rerum officia nostrum repudiandae facilis animi veritatis?</p>
